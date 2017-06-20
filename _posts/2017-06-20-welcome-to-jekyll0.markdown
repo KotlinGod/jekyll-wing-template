@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jekyll text!"
-date:   2017-06-20 11:49:45 +0200
+title:  "Jekyll text2!"
+date:   2017-06-21 11:49:45 +0200
 categories: lishaowei
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
@@ -11,7 +11,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-猴子是杀掉
+猴子是沙雕
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
